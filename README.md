@@ -6,7 +6,7 @@ This is a Meteor smart package for [JQuery Before/After Plugin ](http://www.catc
 - add lt-small.png,lt-small.png,handle.gif to /public/img/before-after 
 - add images to template
 ```html
-<div id="container">
+<div class="before-after">
  <div><img alt="before" src="before.jpg" width="600" height="366" /></div>
  <div><img alt="after" src="after.jpg" width="600" height="366" /></div>
 </div>
